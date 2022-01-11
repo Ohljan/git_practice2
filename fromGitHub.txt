@@ -1,0 +1,4 @@
+this is an aswesome file i added directly from Github.com
+And now I am about to commit direclty to Gitbub.com remote repository
+this is not something we would do normally 
+we are just trying simulate
